@@ -1,11 +1,10 @@
-# Topic-Basics Concept in Python
+# About the branch - Python programs based on module - re(regular expression)
 
 # Author: Neeraj Shankar - codewithneeraj@outlook.com
 ## Getting Started
 
 ## About this Branch:
-This branch covers the python programs based on its basic concepts like methods,classes, list tuples, 
-dictionary, etc
+This branch covers the python programs based on its basic concepts of the python regular expression like defining a pattern  and extract data, etc
 ## Running The code 
   ### Prerequisite
     Make sure the python is installed on the system
@@ -17,4 +16,5 @@ dictionary, etc
 
 ## List of programs:
 #### 1. Static_And_Class_Methods - Give insight of difference between class method and static method.
+#### 2. Extract_Email - extracts emails fron given string or a text file
 
